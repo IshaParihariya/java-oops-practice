@@ -30,7 +30,7 @@ class greetings implements hello
     }
     
 }
-public class defaultMethodInInterface
+public class DefaultMethodInInterface
 {
     public static void main(String[] args)
     {

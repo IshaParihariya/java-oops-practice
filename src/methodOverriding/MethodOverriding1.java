@@ -21,7 +21,7 @@ class child extends parent
     }
 }
 
-public class methodOverriding1 
+public class MethodOverriding1 
 {
     
     public static void main(String[] args)

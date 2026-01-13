@@ -28,7 +28,7 @@ class hello
     }
     
 }
-public class constructorOverloading 
+public class ConstructorOverloading 
 {
     public static void main(String[] args)
     {

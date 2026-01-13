@@ -1,6 +1,6 @@
 /*
 OVERLOADING : 
-Method overloading means having multiple methods with the
+Method Overloading means having multiple methods with the
 same name in the same class, but with different parameter lists.
 
 Methods must differ in:
@@ -28,7 +28,7 @@ class area
        return s*s;
    }  
 }
-public class overloading 
+public class Overloading 
 {
     public static void main(String[] args)
     {

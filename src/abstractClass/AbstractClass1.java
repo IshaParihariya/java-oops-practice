@@ -91,7 +91,7 @@ class KFCchina extends KFC
     }
 }
 
-public class abstractClass1
+public class AbstractClass1
 {
     public static void main(String[] args)
     {

@@ -20,7 +20,7 @@ package oops.inheritance;
            System.out.println("child constructor"); 
         }
     }
-public class inheritance3 
+public class Inheritance3 
 {
     
     public static void main(String[] args)

@@ -14,7 +14,7 @@ interface animal
         System.out.println("animal sound");
     }
 }
-public class staticMethodsInInterface
+public class StaticMethodsInInterface
 {
     public static void main(String[] args)
     {

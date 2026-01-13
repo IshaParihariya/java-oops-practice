@@ -1,7 +1,7 @@
 
 package interfaces;
 
-public class lambdaExpression
+public class LambdaExpression
 {
     public static void main(String[] args)
     {

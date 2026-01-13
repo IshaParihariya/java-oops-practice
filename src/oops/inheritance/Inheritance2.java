@@ -3,7 +3,7 @@
 
 package oops.inheritance;
 
-public class inheritance2
+public class Inheritance2
 {
     static class parent
     {

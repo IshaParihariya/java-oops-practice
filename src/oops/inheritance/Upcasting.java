@@ -30,7 +30,7 @@ class dog extends animal
     }
 }
 
-public class upcasting 
+public class Upcasting 
 {
     public static void main(String [] args)
     {

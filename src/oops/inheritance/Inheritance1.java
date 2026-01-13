@@ -5,7 +5,7 @@
 
 package oops.inheritance;
 
-public class inheritance1 //outer class
+public class Inheritance1 //outer class
 {
     // outer class cannot be static but inners classes can be
   static class animal  // inner class animal

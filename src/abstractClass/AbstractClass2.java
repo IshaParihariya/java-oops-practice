@@ -49,7 +49,7 @@ class child3 extends child2
     
 }
 
-public class abstractClass2
+public class AbstractClass2
 {
     public static void main(String[] args)
     {

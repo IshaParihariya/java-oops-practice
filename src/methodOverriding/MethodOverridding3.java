@@ -47,7 +47,7 @@ class child extends parent
         super.method();            
     }
 }
-public class methodOverridding3 
+public class MethodOverridding3 
 {
    public static void main(String[] args)
    {

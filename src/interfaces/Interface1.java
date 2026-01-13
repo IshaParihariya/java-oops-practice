@@ -59,7 +59,7 @@ class smartphone extends phone implements Icamera, Irecorder
         System.out.println("video calling");
     }
 }
-public class interface1
+public class Interface1
 {
    public static void main(String[] args)
    {

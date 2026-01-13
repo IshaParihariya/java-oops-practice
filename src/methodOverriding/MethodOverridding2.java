@@ -39,7 +39,7 @@ class child extends parent
     }
 }
 
-public class methodOverridding2
+public class MethodOverridding2
 {
     public static void main(String[] args)
     {

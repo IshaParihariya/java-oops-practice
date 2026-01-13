@@ -22,7 +22,7 @@ class Hello implements Greeting
     }
 }
 
-public class functionInterface 
+public class FunctionInterface 
 {
     public static void main(String[] args)
     {
