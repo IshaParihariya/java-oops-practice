@@ -1,4 +1,4 @@
-// method 1 
+// method 1
 package awt;
 
 import java.awt.*;
